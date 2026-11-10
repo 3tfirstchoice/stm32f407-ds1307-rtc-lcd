@@ -10,7 +10,7 @@
    APP_MODE_MESSAGE: show a fixed message and do not use the RTC at all. */
 #define APP_MODE_CLOCK           0
 #define APP_MODE_MESSAGE         1
-#define APP_MODE                 APP_MODE_MESSAGE
+#define APP_MODE                 APP_MODE_CLOCK
 
 #define MESSAGE_PAGE_TIME_MS     3000   /* how long each page of the message stays on the LCD */
 
